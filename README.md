@@ -1,6 +1,6 @@
 # Music
 
-##Integrantes:
+Integrantes:
 - Fredy Hernandez
 - Mariana Lopez
 - Sayid Inurreta
